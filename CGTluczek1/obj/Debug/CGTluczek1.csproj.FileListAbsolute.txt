@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\bin\Debug\CGTluczek1.exe.config
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\bin\Debug\CGTluczek1.exe
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\bin\Debug\CGTluczek1.pdb
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.Form1.resources
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.Properties.Resources.resources
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.exe
+C:\Users\PC\source\repos\CGTluczek1\CGTluczek1\obj\Debug\CGTluczek1.pdb
